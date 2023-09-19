@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "name": "Marine1",
+    "coordinate": {
+      "id": 0,
+      "x": 68.84409,
+      "y": 0
+    },
+    "health": 65,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter1",
+      "parentLegion": "ParentLegion1"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 2,
+    "name": "Marine2",
+    "coordinate": {
+      "id": 0,
+      "x": 17.499088,
+      "y": 95
+    },
+    "health": 75,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter2",
+      "parentLegion": "ParentLegion2"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 3,
+    "name": "Marine3",
+    "coordinate": {
+      "id": 0,
+      "x": 70.900856,
+      "y": 84
+    },
+    "health": 68,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter3",
+      "parentLegion": "ParentLegion3"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 4,
+    "name": "Marine4",
+    "coordinate": {
+      "id": 0,
+      "x": 33.49483,
+      "y": 59
+    },
+    "health": 90,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter4",
+      "parentLegion": "ParentLegion4"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 5,
+    "name": "Marine5",
+    "coordinate": {
+      "id": 0,
+      "x": 38.908905,
+      "y": 78
+    },
+    "health": 90,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter5",
+      "parentLegion": "ParentLegion5"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 6,
+    "name": "Marine6",
+    "coordinate": {
+      "id": 0,
+      "x": 84.30913,
+      "y": 22
+    },
+    "health": 60,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter6",
+      "parentLegion": "ParentLegion6"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 7,
+    "name": "Marine7",
+    "coordinate": {
+      "id": 0,
+      "x": 12.293518,
+      "y": 27
+    },
+    "health": 94,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter7",
+      "parentLegion": "ParentLegion7"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 8,
+    "name": "Marine8",
+    "coordinate": {
+      "id": 0,
+      "x": 52.324043,
+      "y": 3
+    },
+    "health": 38,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter8",
+      "parentLegion": "ParentLegion8"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 9,
+    "name": "Marine9",
+    "coordinate": {
+      "id": 0,
+      "x": 3.2592714,
+      "y": 7
+    },
+    "health": 31,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter9",
+      "parentLegion": "ParentLegion9"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 10,
+    "name": "Marine10",
+    "coordinate": {
+      "id": 0,
+      "x": 95.08331,
+      "y": 78
+    },
+    "health": 46,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter10",
+      "parentLegion": "ParentLegion10"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 11,
+    "name": "Marine11",
+    "coordinate": {
+      "id": 0,
+      "x": 24.141205,
+      "y": 83
+    },
+    "health": 97,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter11",
+      "parentLegion": "ParentLegion11"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 12,
+    "name": "Marine12",
+    "coordinate": {
+      "id": 0,
+      "x": 5.329323,
+      "y": 3
+    },
+    "health": 34,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter12",
+      "parentLegion": "ParentLegion12"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 13,
+    "name": "Marine13",
+    "coordinate": {
+      "id": 0,
+      "x": 98.47638,
+      "y": 98
+    },
+    "health": 14,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter13",
+      "parentLegion": "ParentLegion13"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 14,
+    "name": "Marine14",
+    "coordinate": {
+      "id": 0,
+      "x": 71.60922,
+      "y": 43
+    },
+    "health": 56,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter14",
+      "parentLegion": "ParentLegion14"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 15,
+    "name": "Marine15",
+    "coordinate": {
+      "id": 0,
+      "x": 68.0585,
+      "y": 42
+    },
+    "health": 59,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter15",
+      "parentLegion": "ParentLegion15"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 16,
+    "name": "Marine16",
+    "coordinate": {
+      "id": 0,
+      "x": 23.48482,
+      "y": 81
+    },
+    "health": 74,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter16",
+      "parentLegion": "ParentLegion16"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 17,
+    "name": "Marine17",
+    "coordinate": {
+      "id": 0,
+      "x": 18.620592,
+      "y": 43
+    },
+    "health": 82,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter17",
+      "parentLegion": "ParentLegion17"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 18,
+    "name": "Marine18",
+    "coordinate": {
+      "id": 0,
+      "x": 26.610243,
+      "y": 96
+    },
+    "health": 21,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter18",
+      "parentLegion": "ParentLegion18"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 19,
+    "name": "Marine19",
+    "coordinate": {
+      "id": 0,
+      "x": 0.8439243,
+      "y": 44
+    },
+    "health": 38,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter19",
+      "parentLegion": "ParentLegion19"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 20,
+    "name": "Marine20",
+    "coordinate": {
+      "id": 0,
+      "x": 55.97543,
+      "y": 20
+    },
+    "health": 57,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter20",
+      "parentLegion": "ParentLegion20"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 21,
+    "name": "Marine21",
+    "coordinate": {
+      "id": 0,
+      "x": 92.30661,
+      "y": 97
+    },
+    "health": 98,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter21",
+      "parentLegion": "ParentLegion21"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 22,
+    "name": "Marine22",
+    "coordinate": {
+      "id": 0,
+      "x": 22.113949,
+      "y": 42
+    },
+    "health": 99,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter22",
+      "parentLegion": "ParentLegion22"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 23,
+    "name": "Marine23",
+    "coordinate": {
+      "id": 0,
+      "x": 18.141348,
+      "y": 88
+    },
+    "health": 18,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter23",
+      "parentLegion": "ParentLegion23"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 24,
+    "name": "Marine24",
+    "coordinate": {
+      "id": 0,
+      "x": 36.386456,
+      "y": 91
+    },
+    "health": 51,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter24",
+      "parentLegion": "ParentLegion24"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 25,
+    "name": "Marine25",
+    "coordinate": {
+      "id": 0,
+      "x": 54.13522,
+      "y": 75
+    },
+    "health": 83,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter25",
+      "parentLegion": "ParentLegion25"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 26,
+    "name": "Marine26",
+    "coordinate": {
+      "id": 0,
+      "x": 63.613087,
+      "y": 5
+    },
+    "health": 1,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter26",
+      "parentLegion": "ParentLegion26"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 27,
+    "name": "Marine27",
+    "coordinate": {
+      "id": 0,
+      "x": 73.52962,
+      "y": 36
+    },
+    "health": 41,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter27",
+      "parentLegion": "ParentLegion27"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 28,
+    "name": "Marine28",
+    "coordinate": {
+      "id": 0,
+      "x": 39.06061,
+      "y": 41
+    },
+    "health": 13,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter28",
+      "parentLegion": "ParentLegion28"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 29,
+    "name": "Marine29",
+    "coordinate": {
+      "id": 0,
+      "x": 57.805283,
+      "y": 46
+    },
+    "health": 80,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter29",
+      "parentLegion": "ParentLegion29"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 30,
+    "name": "Marine30",
+    "coordinate": {
+      "id": 0,
+      "x": 92.50396,
+      "y": 65
+    },
+    "health": 60,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter30",
+      "parentLegion": "ParentLegion30"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 31,
+    "name": "Marine31",
+    "coordinate": {
+      "id": 0,
+      "x": 79.39707,
+      "y": 28
+    },
+    "health": 65,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter31",
+      "parentLegion": "ParentLegion31"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 32,
+    "name": "Marine32",
+    "coordinate": {
+      "id": 0,
+      "x": 74.874725,
+      "y": 40
+    },
+    "health": 34,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter32",
+      "parentLegion": "ParentLegion32"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 33,
+    "name": "Marine33",
+    "coordinate": {
+      "id": 0,
+      "x": 29.889769,
+      "y": 71
+    },
+    "health": 51,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter33",
+      "parentLegion": "ParentLegion33"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 34,
+    "name": "Marine34",
+    "coordinate": {
+      "id": 0,
+      "x": 77.6658,
+      "y": 93
+    },
+    "health": 80,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter34",
+      "parentLegion": "ParentLegion34"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 35,
+    "name": "Marine35",
+    "coordinate": {
+      "id": 0,
+      "x": 27.3054,
+      "y": 12
+    },
+    "health": 75,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter35",
+      "parentLegion": "ParentLegion35"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 36,
+    "name": "Marine36",
+    "coordinate": {
+      "id": 0,
+      "x": 56.254734,
+      "y": 56
+    },
+    "health": 97,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter36",
+      "parentLegion": "ParentLegion36"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 37,
+    "name": "Marine37",
+    "coordinate": {
+      "id": 0,
+      "x": 99.2947,
+      "y": 92
+    },
+    "health": 28,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter37",
+      "parentLegion": "ParentLegion37"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 38,
+    "name": "Marine38",
+    "coordinate": {
+      "id": 0,
+      "x": 54.798782,
+      "y": 13
+    },
+    "health": 98,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter38",
+      "parentLegion": "ParentLegion38"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 39,
+    "name": "Marine39",
+    "coordinate": {
+      "id": 0,
+      "x": 31.27005,
+      "y": 57
+    },
+    "health": 40,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter39",
+      "parentLegion": "ParentLegion39"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 40,
+    "name": "Marine40",
+    "coordinate": {
+      "id": 0,
+      "x": 1.1892438,
+      "y": 64
+    },
+    "health": 29,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter40",
+      "parentLegion": "ParentLegion40"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 41,
+    "name": "Marine41",
+    "coordinate": {
+      "id": 0,
+      "x": 57.830067,
+      "y": 46
+    },
+    "health": 51,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter41",
+      "parentLegion": "ParentLegion41"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 42,
+    "name": "Marine42",
+    "coordinate": {
+      "id": 0,
+      "x": 19.267017,
+      "y": 54
+    },
+    "health": 88,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter42",
+      "parentLegion": "ParentLegion42"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 43,
+    "name": "Marine43",
+    "coordinate": {
+      "id": 0,
+      "x": 97.481926,
+      "y": 23
+    },
+    "health": 10,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter43",
+      "parentLegion": "ParentLegion43"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 44,
+    "name": "Marine44",
+    "coordinate": {
+      "id": 0,
+      "x": 45.318134,
+      "y": 91
+    },
+    "health": 82,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter44",
+      "parentLegion": "ParentLegion44"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 45,
+    "name": "Marine45",
+    "coordinate": {
+      "id": 0,
+      "x": 12.107009,
+      "y": 67
+    },
+    "health": 81,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter45",
+      "parentLegion": "ParentLegion45"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 46,
+    "name": "Marine46",
+    "coordinate": {
+      "id": 0,
+      "x": 44.696976,
+      "y": 20
+    },
+    "health": 30,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter46",
+      "parentLegion": "ParentLegion46"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 47,
+    "name": "Marine47",
+    "coordinate": {
+      "id": 0,
+      "x": 58.46777,
+      "y": 31
+    },
+    "health": 70,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter47",
+      "parentLegion": "ParentLegion47"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 48,
+    "name": "Marine48",
+    "coordinate": {
+      "id": 0,
+      "x": 89.86414,
+      "y": 23
+    },
+    "health": 12,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter48",
+      "parentLegion": "ParentLegion48"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 49,
+    "name": "Marine49",
+    "coordinate": {
+      "id": 0,
+      "x": 76.13564,
+      "y": 24
+    },
+    "health": 39,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter49",
+      "parentLegion": "ParentLegion49"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 50,
+    "name": "Marine50",
+    "coordinate": {
+      "id": 0,
+      "x": 75.460594,
+      "y": 21
+    },
+    "health": 93,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter50",
+      "parentLegion": "ParentLegion50"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 51,
+    "name": "Marine51",
+    "coordinate": {
+      "id": 0,
+      "x": 78.53441,
+      "y": 12
+    },
+    "health": 38,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter51",
+      "parentLegion": "ParentLegion51"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 52,
+    "name": "Marine52",
+    "coordinate": {
+      "id": 0,
+      "x": 31.241776,
+      "y": 44
+    },
+    "health": 95,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter52",
+      "parentLegion": "ParentLegion52"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 53,
+    "name": "Marine53",
+    "coordinate": {
+      "id": 0,
+      "x": 27.533007,
+      "y": 34
+    },
+    "health": 72,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter53",
+      "parentLegion": "ParentLegion53"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 54,
+    "name": "Marine54",
+    "coordinate": {
+      "id": 0,
+      "x": 26.426243,
+      "y": 27
+    },
+    "health": 95,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter54",
+      "parentLegion": "ParentLegion54"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 55,
+    "name": "Marine55",
+    "coordinate": {
+      "id": 0,
+      "x": 40.56453,
+      "y": 37
+    },
+    "health": 59,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter55",
+      "parentLegion": "ParentLegion55"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 56,
+    "name": "Marine56",
+    "coordinate": {
+      "id": 0,
+      "x": 95.61934,
+      "y": 20
+    },
+    "health": 90,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter56",
+      "parentLegion": "ParentLegion56"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 57,
+    "name": "Marine57",
+    "coordinate": {
+      "id": 0,
+      "x": 8.160936,
+      "y": 36
+    },
+    "health": 50,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter57",
+      "parentLegion": "ParentLegion57"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 58,
+    "name": "Marine58",
+    "coordinate": {
+      "id": 0,
+      "x": 17.989594,
+      "y": 72
+    },
+    "health": 59,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter58",
+      "parentLegion": "ParentLegion58"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 59,
+    "name": "Marine59",
+    "coordinate": {
+      "id": 0,
+      "x": 61.82948,
+      "y": 8
+    },
+    "health": 79,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter59",
+      "parentLegion": "ParentLegion59"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 60,
+    "name": "Marine60",
+    "coordinate": {
+      "id": 0,
+      "x": 38.52623,
+      "y": 42
+    },
+    "health": 83,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter60",
+      "parentLegion": "ParentLegion60"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 61,
+    "name": "Marine61",
+    "coordinate": {
+      "id": 0,
+      "x": 92.29863,
+      "y": 25
+    },
+    "health": 99,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter61",
+      "parentLegion": "ParentLegion61"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 62,
+    "name": "Marine62",
+    "coordinate": {
+      "id": 0,
+      "x": 78.40048,
+      "y": 55
+    },
+    "health": 67,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter62",
+      "parentLegion": "ParentLegion62"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 63,
+    "name": "Marine63",
+    "coordinate": {
+      "id": 0,
+      "x": 58.456993,
+      "y": 58
+    },
+    "health": 59,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter63",
+      "parentLegion": "ParentLegion63"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 64,
+    "name": "Marine64",
+    "coordinate": {
+      "id": 0,
+      "x": 65.78906,
+      "y": 34
+    },
+    "health": 56,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter64",
+      "parentLegion": "ParentLegion64"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 65,
+    "name": "Marine65",
+    "coordinate": {
+      "id": 0,
+      "x": 72.11498,
+      "y": 29
+    },
+    "health": 22,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter65",
+      "parentLegion": "ParentLegion65"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 66,
+    "name": "Marine66",
+    "coordinate": {
+      "id": 0,
+      "x": 58.780544,
+      "y": 48
+    },
+    "health": 33,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter66",
+      "parentLegion": "ParentLegion66"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 67,
+    "name": "Marine67",
+    "coordinate": {
+      "id": 0,
+      "x": 84.53982,
+      "y": 65
+    },
+    "health": 12,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter67",
+      "parentLegion": "ParentLegion67"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 68,
+    "name": "Marine68",
+    "coordinate": {
+      "id": 0,
+      "x": 87.64655,
+      "y": 70
+    },
+    "health": 90,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter68",
+      "parentLegion": "ParentLegion68"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 69,
+    "name": "Marine69",
+    "coordinate": {
+      "id": 0,
+      "x": 21.240843,
+      "y": 92
+    },
+    "health": 78,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter69",
+      "parentLegion": "ParentLegion69"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 70,
+    "name": "Marine70",
+    "coordinate": {
+      "id": 0,
+      "x": 28.980541,
+      "y": 31
+    },
+    "health": 64,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter70",
+      "parentLegion": "ParentLegion70"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 71,
+    "name": "Marine71",
+    "coordinate": {
+      "id": 0,
+      "x": 12.593341,
+      "y": 43
+    },
+    "health": 80,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter71",
+      "parentLegion": "ParentLegion71"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 72,
+    "name": "Marine72",
+    "coordinate": {
+      "id": 0,
+      "x": 32.83467,
+      "y": 93
+    },
+    "health": 96,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter72",
+      "parentLegion": "ParentLegion72"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 73,
+    "name": "Marine73",
+    "coordinate": {
+      "id": 0,
+      "x": 92.651505,
+      "y": 88
+    },
+    "health": 97,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter73",
+      "parentLegion": "ParentLegion73"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 74,
+    "name": "Marine74",
+    "coordinate": {
+      "id": 0,
+      "x": 54.554962,
+      "y": 4
+    },
+    "health": 74,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter74",
+      "parentLegion": "ParentLegion74"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 75,
+    "name": "Marine75",
+    "coordinate": {
+      "id": 0,
+      "x": 97.16842,
+      "y": 71
+    },
+    "health": 65,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter75",
+      "parentLegion": "ParentLegion75"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 76,
+    "name": "Marine76",
+    "coordinate": {
+      "id": 0,
+      "x": 23.749716,
+      "y": 66
+    },
+    "health": 72,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter76",
+      "parentLegion": "ParentLegion76"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 77,
+    "name": "Marine77",
+    "coordinate": {
+      "id": 0,
+      "x": 86.85492,
+      "y": 14
+    },
+    "health": 69,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter77",
+      "parentLegion": "ParentLegion77"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 78,
+    "name": "Marine78",
+    "coordinate": {
+      "id": 0,
+      "x": 96.635666,
+      "y": 98
+    },
+    "health": 83,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter78",
+      "parentLegion": "ParentLegion78"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 79,
+    "name": "Marine79",
+    "coordinate": {
+      "id": 0,
+      "x": 72.89806,
+      "y": 39
+    },
+    "health": 83,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter79",
+      "parentLegion": "ParentLegion79"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 80,
+    "name": "Marine80",
+    "coordinate": {
+      "id": 0,
+      "x": 47.488564,
+      "y": 57
+    },
+    "health": 27,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter80",
+      "parentLegion": "ParentLegion80"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 81,
+    "name": "Marine81",
+    "coordinate": {
+      "id": 0,
+      "x": 90.54129,
+      "y": 59
+    },
+    "health": 1,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter81",
+      "parentLegion": "ParentLegion81"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 82,
+    "name": "Marine82",
+    "coordinate": {
+      "id": 0,
+      "x": 27.36491,
+      "y": 39
+    },
+    "health": 70,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter82",
+      "parentLegion": "ParentLegion82"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 83,
+    "name": "Marine83",
+    "coordinate": {
+      "id": 0,
+      "x": 82.10429,
+      "y": 77
+    },
+    "health": 13,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter83",
+      "parentLegion": "ParentLegion83"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 84,
+    "name": "Marine84",
+    "coordinate": {
+      "id": 0,
+      "x": 50.631702,
+      "y": 71
+    },
+    "health": 91,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter84",
+      "parentLegion": "ParentLegion84"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 85,
+    "name": "Marine85",
+    "coordinate": {
+      "id": 0,
+      "x": 34.384865,
+      "y": 42
+    },
+    "health": 7,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter85",
+      "parentLegion": "ParentLegion85"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 86,
+    "name": "Marine86",
+    "coordinate": {
+      "id": 0,
+      "x": 13.802397,
+      "y": 9
+    },
+    "health": 90,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter86",
+      "parentLegion": "ParentLegion86"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 87,
+    "name": "Marine87",
+    "coordinate": {
+      "id": 0,
+      "x": 5.3141413,
+      "y": 93
+    },
+    "health": 99,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter87",
+      "parentLegion": "ParentLegion87"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 88,
+    "name": "Marine88",
+    "coordinate": {
+      "id": 0,
+      "x": 38.076042,
+      "y": 80
+    },
+    "health": 15,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter88",
+      "parentLegion": "ParentLegion88"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 89,
+    "name": "Marine89",
+    "coordinate": {
+      "id": 0,
+      "x": 51.59874,
+      "y": 27
+    },
+    "health": 45,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter89",
+      "parentLegion": "ParentLegion89"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 90,
+    "name": "Marine90",
+    "coordinate": {
+      "id": 0,
+      "x": 92.849495,
+      "y": 97
+    },
+    "health": 81,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "TACTICAL",
+      "category": "TACTICAL"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter90",
+      "parentLegion": "ParentLegion90"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 91,
+    "name": "Marine91",
+    "coordinate": {
+      "id": 0,
+      "x": 80.63158,
+      "y": 56
+    },
+    "health": 7,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter91",
+      "parentLegion": "ParentLegion91"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 92,
+    "name": "Marine92",
+    "coordinate": {
+      "id": 0,
+      "x": 68.04092,
+      "y": 64
+    },
+    "health": 20,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter92",
+      "parentLegion": "ParentLegion92"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 93,
+    "name": "Marine93",
+    "coordinate": {
+      "id": 0,
+      "x": 36.12902,
+      "y": 52
+    },
+    "health": 79,
+    "achievements": "Achievement4",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter93",
+      "parentLegion": "ParentLegion93"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 94,
+    "name": "Marine94",
+    "coordinate": {
+      "id": 0,
+      "x": 38.73793,
+      "y": 78
+    },
+    "health": 31,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "SCOUT",
+      "category": "SCOUT"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter94",
+      "parentLegion": "ParentLegion94"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 95,
+    "name": "Marine95",
+    "coordinate": {
+      "id": 0,
+      "x": 44.88451,
+      "y": 25
+    },
+    "health": 11,
+    "achievements": "Achievement1",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter95",
+      "parentLegion": "ParentLegion95"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 96,
+    "name": "Marine96",
+    "coordinate": {
+      "id": 0,
+      "x": 6.562066,
+      "y": 43
+    },
+    "health": 36,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "APOTHECARY",
+      "category": "APOTHECARY"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLTGUN",
+      "type": "BOLTGUN"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter96",
+      "parentLegion": "ParentLegion96"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 97,
+    "name": "Marine97",
+    "coordinate": {
+      "id": 0,
+      "x": 1.034373,
+      "y": 30
+    },
+    "health": 82,
+    "achievements": "Achievement5",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "COMBI_FLAMER",
+      "type": "COMBI_FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter97",
+      "parentLegion": "ParentLegion97"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 98,
+    "name": "Marine98",
+    "coordinate": {
+      "id": 0,
+      "x": 13.009214,
+      "y": 22
+    },
+    "health": 49,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "PRIMARIS",
+      "category": "PRIMARIS"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter98",
+      "parentLegion": "ParentLegion98"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 99,
+    "name": "Marine99",
+    "coordinate": {
+      "id": 0,
+      "x": 10.813915,
+      "y": 50
+    },
+    "health": 64,
+    "achievements": "Achievement2",
+    "astartes": {
+      "id": 0,
+      "title": "AGGRESSOR",
+      "category": "AGGRESSOR"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "FLAMER",
+      "type": "FLAMER"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter99",
+      "parentLegion": "ParentLegion99"
+    },
+    "idUser": -1
+  },
+  {
+    "id": 100,
+    "name": "Marine100",
+    "coordinate": {
+      "id": 0,
+      "x": 35.35492,
+      "y": 67
+    },
+    "health": 97,
+    "achievements": "Achievement3",
+    "astartes": {
+      "id": 0,
+      "title": "CHAPLAIN",
+      "category": "CHAPLAIN"
+    },
+    "weapon": {
+      "id": 0,
+      "title": "BOLT_RIFLE",
+      "type": "BOLT_RIFLE"
+    },
+    "chapter": {
+      "id": 0,
+      "name": "Chapter100",
+      "parentLegion": "ParentLegion100"
+    },
+    "idUser": -1
+  }
+]
